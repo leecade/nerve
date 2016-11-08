@@ -23,7 +23,7 @@
     "express-store": "",
     "flickr-reflection": "",
     "glob": "",
-    "imagemagick": "",
+    "imagemagick": ">=0.1.3",
     "jsdom": "",
     "markdom": "",
     "optimist": "",
