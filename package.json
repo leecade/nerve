@@ -28,7 +28,7 @@
     "markdom": "",
     "optimist": "",
     "underscore": "",
-    "temp": "",
+    "temp": ">=0.8.3",
     "watch": "",
     "vows": ">=0.5.4"
   },
