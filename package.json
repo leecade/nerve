@@ -15,7 +15,7 @@
   "dependencies": {
     "app.js": "",
     "api.js": "",
-    "async": "",
+    "async": ">=2.1.4",
     "bcrypt": "",
     "dandy": "",
     "datetime": "",
