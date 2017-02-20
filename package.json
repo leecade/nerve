@@ -30,7 +30,7 @@
     "underscore": "",
     "temp": "",
     "watch": "",
-    "vows": ">=0.5.4"
+    "vows": ">=0.8.1"
   },
   "main": "./lib/nerve",
   "directories": {
